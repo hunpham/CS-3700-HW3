@@ -1,0 +1,20 @@
+Enter IP address or hostname to connect (suggessted 147.153.10.87): Connecting to Socket[addr=/147.153.10.87,port=5260,localport=50654]
+Enter HTTP method (suggested GET): Enter requested file name (suggested /CS3700.htm): Enter HTTP version (suggested HTTP/1.1): Enter Host (suggested cs3700a.msudenver.edu): Enter User Agent: 
+HTTP/1.1 200 OK 
+Date: Thu Feb 17 18:40:27 MST 2022
+Server: cs3700a.msudenver.edu
+
+RTT: 346ms
+200 OK - Writing to file...
+Done.
+
+Press enter to continue or type quit to exit.
+> Enter HTTP method (suggested GET): Enter requested file name (suggested /CS3700.htm): Enter HTTP version (suggested HTTP/1.1): Enter Host (suggested cs3700a.msudenver.edu): Enter User Agent: 
+HTTP/1.1 400 Bad Request
+Date: Thu Feb 17 18:40:27 MST 2022
+Server: cs3700a.msudenver.edu
+
+RTT: 113ms
+
+Press enter to continue or type quit to exit.
+> See ya!
