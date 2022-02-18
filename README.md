@@ -1,5 +1,5 @@
 # Homework 03 - Simplified HTTP via TCP
-# By Hung Pham & Rigoberto Hinojos
+By Hung Pham & Rigoberto Hinojos
 
 How to use server & client program:
 
