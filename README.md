@@ -1,12 +1,12 @@
-Homework 03 - Simplified HTTP via TCP
-By Hung Pham & Rigoberto Hinojos
+# Homework 03 - Simplified HTTP via TCP
+# By Hung Pham & Rigoberto Hinojos
 
 How to use server & client program:
 
 Step 0: login to cs3700a and cd to the directory the server file is located
 
 Step 1: run the server program on desired host using the command
-# not needed if already compiled
+(not needed if already compiled)
 $ javac TCPMultiServer.java
 $ java TCPMultiServer
 
